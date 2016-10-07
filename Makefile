@@ -1,8 +1,8 @@
-# $OpenBSD: Makefile,v 1.17 2014/01/15 02:13:58 jeremy Exp $
+# $OpenBSD$
 
-COMMENT =	ffi wrapper around GSSAPI
+COMMENT =	FSEvents API with Signals catching
 
-DISTNAME =	rb-fsevent-0.9.5
+DISTNAME =	rb-fsevent-0.9.7
 CATEGORIES =	devel
 
 HOMEPAGE=	http://rubygems.org/gems/rb-fsevent
